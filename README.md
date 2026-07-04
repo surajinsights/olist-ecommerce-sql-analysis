@@ -11,7 +11,8 @@ The analysis covers customer behavior, sales performance, product performance, d
 ## 📂 Dataset
 
 - **Dataset:** Olist Brazilian E-commerce Public Dataset
-- **Source:** Kaggle ( https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce )
+- **Source:** Kaggle
+- ( https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce )
 - Contains information about:
   - Customers
   - Orders
