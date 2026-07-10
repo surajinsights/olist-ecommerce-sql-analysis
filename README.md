@@ -124,6 +124,13 @@ SQL/
 - Create an end-to-end business intelligence solution
 
 
+## 🏆 Certification
+
+During the development of this project, I also earned the **HackerRank SQL (Intermediate)** Skill Certification, validating my SQL knowledge in joins, CTEs, subqueries, and window functions.
+
+🔗 View Certificate: <https://www.hackerrank.com/certificates/iframe/620019a1a646>
+
+
 
 ## 👤 Author
 
